@@ -1,0 +1,9 @@
+{
+  "name": "CineArch Mobile",
+  "description": "A minimalist, editorial-grade platform for Canadian film workers to track union eligibility, log jobs, and manage documents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
